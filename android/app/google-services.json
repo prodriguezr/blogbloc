@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "904641210564",
+    "firebase_url": "https://blogbloc-b6da6.firebaseio.com",
+    "project_id": "blogbloc-b6da6",
+    "storage_bucket": "blogbloc-b6da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904641210564:android:66dd741e4a393f63014191",
+        "android_client_info": {
+          "package_name": "cl.prodrigu.blogbloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904641210564-jg5lmu2h13ioh8ojfqkf4bj35bckh3cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzTeCTHeWvkvH4SGyvSkbXMYfF0Zjnodo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904641210564-jg5lmu2h13ioh8ojfqkf4bj35bckh3cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
